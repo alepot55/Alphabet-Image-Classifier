@@ -12,7 +12,7 @@ The project aims to develop a classifier that can accurately identify letters of
 The repository contains the following files:
 
 * `data.txt`: A file containing a dataset of images of letters
-* `final.ipynb`: A Python notebook that implements the classifier
+* `project.ipynb`: A Python notebook that implements the classifier
 
 The authors of this project is:
 
